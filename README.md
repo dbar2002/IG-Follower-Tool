@@ -11,7 +11,7 @@ This Python script helps you track who unfollowed you on Instagram and who doesn
 ## Installation
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/yourusername/instagram-unfollowers-tracker.git
+   git clone https://github.com/dbar2002/IG-Follower-Tool
    cd instagram-unfollowers-tracker
    ```
 
